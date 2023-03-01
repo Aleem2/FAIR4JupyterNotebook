@@ -2,8 +2,7 @@
 
 ## A FAIR Jupyter Notebook - (Metadata: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
 
-### This is a example FAIR jupyter notebook repo. Researchers can compare and reuse. 
-
+### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
 
 ### The example file is sourced from matplotlib example files. 
 
