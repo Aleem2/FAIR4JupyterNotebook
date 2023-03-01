@@ -14,7 +14,7 @@ A binderhub badge to instantly launch the notebook.
 
 ## Code dependencies 
 
-The code dependencies are captured in the environment.yaml file. The instructions can be found at the link below.
+The code dependencies are captured in the environment.yaml file. The instructions about create one for your project can be found at the link below.
 
 https://mybinder.readthedocs.io/en/latest/howto/languages.html
 
