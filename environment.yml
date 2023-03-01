@@ -1,0 +1,5 @@
+name: python 3.8.10
+dependencies:
+  - python=3.8.10
+  - numpy=1.22.4
+  - matplotlib=3.5.3
