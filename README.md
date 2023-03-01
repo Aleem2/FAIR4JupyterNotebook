@@ -12,11 +12,12 @@ https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr
 
 ## Code dependencies 
 
-The code dependencies are captured in the environment.yaml file following the instructions from the link below.
+The code dependencies are captured in the environment.yaml file. The instructions can be found at the link below.
 
 https://mybinder.readthedocs.io/en/latest/howto/languages.html
 
-To get the list of python packages and dependencies use below command from jupyter notebook. This inststruction is not part of the .ipnby file. 
+To get the list of python packages and dependencies use the following commands in jupyter notebook. This inststruction commands are not part of the .ipnby file. 
+
 ! freeze
 
 ! freeze | grep -i numpy # getting numpy version only.
