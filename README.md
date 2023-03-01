@@ -4,9 +4,11 @@
 
 ### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
 
-### The example file is sourced from matplotlib example files. 
+The example file is sourced from matplotlib example files. 
 
 https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py
+
+
 
 ## Code dependencies 
 
