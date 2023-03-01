@@ -12,7 +12,7 @@ https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr
 
 ## Code dependencies 
 
-The code dependencies are captured in the environments.yaml file following the instructions from the link below.
+The code dependencies are captured in the environment.yaml file following the instructions from the link below.
 
 https://mybinder.readthedocs.io/en/latest/howto/languages.html
 
