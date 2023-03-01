@@ -24,4 +24,4 @@ To get the list of python packages and dependencies use the following commands i
 
 ! freeze | grep -i matplotlib # getting matplotlib version only. 
 
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
