@@ -1,8 +1,11 @@
-#### FAIR4JupyterNotebook
+# FAIR4JupyterNotebook
 
-#### A FAIR Jupyter Notebook - (Metadata: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
+## A FAIR Jupyter Notebook - (Metadata: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
 
-## The example file is sourced from matplotlib example files. 
+### This is a example FAIR jupyter notebook repo. Researchers can compare and reuse. 
+
+
+### The example file is sourced from matplotlib example files. 
 
 https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py
 
