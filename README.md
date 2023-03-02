@@ -18,12 +18,10 @@ The code dependencies are captured in the environment.yaml file. The instruction
 
 https://mybinder.readthedocs.io/en/latest/howto/languages.html
 
-To get the list of python packages and dependencies use the following commands in jupyter notebook. This inststruction commands are not part of the .ipnby file. 
+To get the list of python packages and dependencies use the following commands in jupyter notebook. This inststruction commands are not part of the notebook .pynb file. 
 
 ! freeze
 
 ! freeze | grep -i numpy # getting numpy version only.
 
 ! freeze | grep -i matplotlib # getting matplotlib version only. 
-
-
