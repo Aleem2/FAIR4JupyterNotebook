@@ -12,6 +12,8 @@ A binderhub badge to instantly launch the notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
+
 ## Code dependencies 
 
 The code dependencies are captured in the environment.yaml file. The instructions about create one for your project can be found at the link below.
