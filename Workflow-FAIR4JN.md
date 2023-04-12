@@ -1,6 +1,6 @@
 ### FAIR for Jupyter Notebook Workflow 
 
-* Create a github repo with license
+* Create a github repo with license. Or add a lincense file "LICENSE" and insert license.
 
 * Create CITATION.cff and update details
 
