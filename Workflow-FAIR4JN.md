@@ -14,6 +14,6 @@
 
 * Login to Zendo and click on the link to github. 
 
-* Toggle the switch to the link repository. 
+         * Toggle the switch to the link repository. 
 
-* Publish the repository to get DOI.
+* Publish the repository to get DOI and the DOI badge, which can be updated in readme.md and citation.cff files.
