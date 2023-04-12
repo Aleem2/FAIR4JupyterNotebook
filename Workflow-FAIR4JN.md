@@ -7,7 +7,9 @@
 * Upload Jupyter notebook file
 
 * Follow https://mybinder.readthedocs.io/en/latest/howto/languages.html to create requirements.yml file
+
          * Inside jupyternote book use command ! freeze | grep -i numpy # getting numpy version only. And do the same for other libraries
+         
          * Inside jupyternote book use command ! python -version 
 
 * Create binder badge following link, https://mybinder.readthedocs.io/en/latest/introduction.html
