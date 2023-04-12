@@ -1,6 +1,6 @@
 # FAIR4JupyterNotebook
 
-## A FAIR Jupyter Notebook - (Metadata: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
+## A FAIR Jupyter Notebook - (Keywords: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
 
 ### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
 
