@@ -8,7 +8,7 @@ The example file is sourced from matplotlib example files.
 
 https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py
 
-A Google colab and a binderhub badge to instantly launch the notebook are publised below. 
+A Google colab, a binderhub badge and a DOI badge to instantly launch the notebook are publised below. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
