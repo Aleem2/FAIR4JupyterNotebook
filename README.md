@@ -14,6 +14,9 @@ A Google colab and a binderhub badge to instantly launch the notebook are publis
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
 
+[![DOI](https://zenodo.org/badge/607978663.svg)](https://zenodo.org/badge/latestdoi/607978663)
+
+
 
 
 
