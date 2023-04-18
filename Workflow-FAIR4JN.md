@@ -1,12 +1,14 @@
 ### FAIR for Jupyter Notebook Workflow 
 
-* Create a github repo with license. Or add a lincense file "LICENSE" and insert license.
+* Create a github repo with license. Or add a lincense file "LICENSE" and insert license. 
+         
+         * How to add a license is linked at https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository.
 
-* Create CITATION.cff and update details
+* Create CITATION.cff and update details. Detailed process is on the link, https://citation-file-format.github.io/. 
 
 * Upload Jupyter notebook file
 
-* Follow https://mybinder.readthedocs.io/en/latest/howto/languages.html to create requirements.yml file
+* Follow the link (https://mybinder.readthedocs.io/en/latest/howto/languages.html) to create requirements.yml file
 
          * Inside jupyternote book use command ! freeze | grep -i numpy # getting numpy version only. And do the same for other libraries
          
@@ -19,5 +21,7 @@
 * Login to Zendo and click on the link to github. 
 
          * Toggle the switch to the link repository. 
+         
+         * How to create DOI is detailed in the web resource. https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content.
 
 * Publish the repository to get DOI and the DOI badge, which can be updated in readme.md and citation.cff files.
