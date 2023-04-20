@@ -16,7 +16,7 @@ A Google colab and a binderhub badge to instantly launch the notebook are publis
 
 DOI as persistant identifier.
 
-[![DOI](https://zenodo.org/badge/607978663.svg)](https://zenodo.org/badge/latestdoi/607978663)
+[![DOI](https://zenodo.org/badge/7690163.svg)](https://doi.org/10.5281/zenodo.7690163)
 
 
 
