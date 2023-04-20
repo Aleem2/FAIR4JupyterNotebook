@@ -32,6 +32,8 @@ https://mybinder.readthedocs.io/en/latest/howto/languages.html
 
 To get the list of python packages and dependencies use the following commands in jupyter notebook. This inststruction commands are not part of the notebook .pynb file. 
 
+! python -version
+
 ! freeze
 
 ! freeze | grep -i numpy # getting numpy version only.
