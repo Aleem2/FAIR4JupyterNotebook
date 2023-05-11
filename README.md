@@ -18,8 +18,9 @@ DOI as persistant identifier.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7822033.svg)](https://doi.org/10.5281/zenodo.7822033)
 
+Binderhub service hosted by ARDC
 
-
+[![Binder](https://binder.test.rc.nectar.org.au/badge_logo.svg)](https://binder.test.rc.nectar.org.au/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
 
 
