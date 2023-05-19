@@ -9,7 +9,7 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 2. Metadata is a way to provide author details and the ability to cite the software. We recommend using CITATION.cff file, which provides a machine readable format to reference the said work.
 
 
-    [A Guide to creating CITATION.cff - metadata file](https://citation-file-format.github.io/)
+    [A guide to creating CITATION.cff - metadata file](https://citation-file-format.github.io/)
 
 
 3. Upload the Jupyter Notebook file, so that it becomes findable and accessible via the github repository.
@@ -40,7 +40,7 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 
 6. Create Google colab badge which can be executed. (caveat dependencies ignored)
    
-    [A Guide to creating google colab badge](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)
+    [A guide to creating google colab badge](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)
 
 7. Persistent Identifier (DOI) - Assign a persistent identifier (DOI) to the repository, once the research is completed. GitHub has a thorough guide on generating DOI’s with a Zenodo plugin.
 
