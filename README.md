@@ -2,7 +2,7 @@
 
 
 ## Keywords
-ARDC template: Jupyter Notebook, FAIR, Findable, Accessible, Interoperable, Reproducible
+ARDC template, Jupyter Notebook, FAIR, Findable, Accessible, Interoperable, Reproducible
 
 
 ## Summary
