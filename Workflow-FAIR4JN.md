@@ -2,7 +2,7 @@
 
 * Create a github repo with license. Or add a lincense file "LICENSE" and insert license. 
          
-         * How to add a license is linked at https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository.
+         * [How to add a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
 
 * Create CITATION.cff and update details. Detailed process is on the link, https://citation-file-format.github.io/. 
 
