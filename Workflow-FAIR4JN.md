@@ -1,30 +1,53 @@
-### FAIR for Jupyter Notebook Workflow 
+## FAIR for Jupyter Notebook Workflow
 
-This workflow outlines a step by step approach in creating a FAIR Jupyter Notebook.
+This workflow outlines a step by step approach in creating a FAIR Jupyter Notebook. (15 minutes)
 
-* Sign in to github, click on + sign beside your login to create a new github repo. Fill in the form to create a new repository, you can add licensing information or add it at a latter stage by adding a lincense file "LICENSE" and insert license. Make sure to update the license details such as contributers names and year.  
+1. Sign in to github, click on + sign beside your login to create a new github repo. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
 
-    [A Guide to creating a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+    [A guide to creating a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
          
-* Create CITATION.cff and update details. Detailed process is on the link, https://citation-file-format.github.io/. 
+2. Metadata is a way to provide author details and the ability to cite the software. We recommend using CITATION.cff file, which provides a machine readable format to reference the said work.
 
-* Upload Jupyter notebook file
 
-* Follow the link (https://mybinder.readthedocs.io/en/latest/howto/languages.html) to create requirements.yml file
+    [A Guide to creating CITATION.cff - metadata file](https://citation-file-format.github.io/)
 
-         * Inside jupyternote book use command ! freeze | grep -i numpy # getting numpy version only. And do the same for other libraries
+
+3. Upload the Jupyter Notebook file, so that it becomes findable and accessible via the github repository.
+
+
+4. Reproducibility of the Jupyter Notebook is ensured by providing the dependencies using requirements.yml file.    
+
+
+    [A guide to creating requirements.yml](https://mybinder.readthedocs.io/en/latest/howto/languages.html)
+
+
+    * Tips on finding the dependencies from a working Jupyter notebook on your desktop.
+   
+   
+        * In a new cell, use the following command to get all libraries
+        ~~~~
+        ! freeze | grep -i numpy # Say getting a numpy version only. And do the same for other libraries
+        ~~~~
          
-         * Inside jupyternote book use command ! python -version 
+        * Inside the jupyter notebook use the following command to get the python version.
+        ~~~~
+        ! python -version
+        ~~~~
 
-* Create binder badge following link, https://mybinder.readthedocs.io/en/latest/introduction.html
+5. Additionally, we recommend creating a bindhub and google colab badges. The badges can be clicked upon to launch Jupyter Notebook in a reproducible manner.
+   
+    [A guide to creating an executable binderhub badge](https://mybinder.readthedocs.io/en/latest/introduction.html)
 
-* Create Google colab badge following instructions https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us
+6. Create Google colab badge which can be executed. (caveat dependencies ignored)
+   
+    [A Guide to creating google colab badge](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)
 
-* Login to Zendo and click on the link to github. 
+7. Persistent Identifier (DOI) - Assign a persistent identifier (DOI) to the repository, once the research is completed. GitHub has a thorough guide on generating DOI’s with a Zenodo plugin.
 
-         * Toggle the switch to the link repository. 
+    7.1 Login to Zendo and click on the "link to github".
          
-         * How to create DOI is detailed in the web resource. https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content.
+    [A guide to creating DOIs](https://docs.github.com/en/repositories/archiving-a-github-repository/referencing-and-citing-content)
 
-* Publish the repository to get DOI and the DOI badge, which can be updated in readme.md and citation.cff files.
-[ARCOS](arcos.ardc.edu.au)
+8. Publish the repository to get DOI and the DOI badge, which can be updated in readme.md
+
+9. Finally update the citation.cff files with DOI link.
