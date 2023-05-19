@@ -2,9 +2,10 @@
 
 ## A FAIR Jupyter Notebook - (Keywords: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
 
-## To create your own FAIR Jupyter notebook please follow the workflow outlined here https://github.com/Aleem2/FAIR4JupyterNotebook/blob/main/Workflow-FAIR4JN.md.
+#### To create your own FAIR Jupyter notebook please follow the workflow outlined here https://github.com/Aleem2/FAIR4JupyterNotebook/blob/main/Workflow-FAIR4JN.md.
 
-### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
+
+#### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
 
 The example file is sourced from matplotlib example files. 
 
