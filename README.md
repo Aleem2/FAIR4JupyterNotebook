@@ -13,7 +13,7 @@ Jupyter Notebooks (JN) have been widely used in research and data science (Mende
 
 
 
-This repo serves as an example with instructions to create a FAIR Jupyter Notebook. The example file is sourced from [matplotlib documentation](https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py).
+This repo serves as an example with instructions to create a FAIR Jupyter Notebook. The example Jupyter notebook file is sourced from [matplotlib documentation](https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py).
 
 
 
