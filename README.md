@@ -1,45 +1,58 @@
-# FAIR4JupyterNotebook
-
-## A FAIR Jupyter Notebook - (Keywords: ARDC template: Jupyter Notebook, Findable, Accessible, Interoperable, Reproducible) 
-
-#### To create your own FAIR Jupyter notebook please follow the workflow outlined here https://github.com/Aleem2/FAIR4JupyterNotebook/blob/main/Workflow-FAIR4JN.md.
+# FAIR for Jupyter Notebooks - A Practical Guide
 
 
-#### This is an example FAIR jupyter notebook repo and it serves as a guide to researchers.
+## Keywords
+ARDC template: Jupyter Notebook, FAIR, Findable, Accessible, Interoperable, Reproducible
 
-The example file is sourced from matplotlib example files. 
 
-https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py
+## Summary
 
-A Google colab and a binderhub badge to instantly launch the notebook are publised below. 
+
+Jupyter Notebooks (JN) have been widely used in research and data science (Mendez et al., 2019). Despite its widespread use, various challenges exist in making JN reproducible, accessible and robust. A plausible approach is to use FAIR principles to make JN findable, accessible, interoperable and reproducible. However FAIR principles are high level aspirations in making research robust and can be difficult to apply in practice. This work aims to provide practical  recommendations in making JN FAIR and it closely follows the FAIR for Research Software (FAIR4RS) approach.
+
+
+
+
+This repo serves as an example with instructions to create a FAIR Jupyter Notebook. The example file is sourced from [matplotlib documentation](https://matplotlib.org/stable/gallery/statistics/boxplot_vs_violin.html#sphx-glr-gallery-statistics-boxplot-vs-violin-py) .
+
+
+
+
+## WorkFlow:
+
+
+### [Create your own FAIR notebook ](https://github.com/Aleem2/FAIR4JupyterNotebook/blob/main/Workflow-FAIR4JN.md)
+
+
+## Executable badges
+
+
+Badges allow for instant launch of the notebook files in a reproducible manner.
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
 
-DOI as persistant identifier.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7822033.svg)](https://doi.org/10.5281/zenodo.7822033)
+Binderhub service hosted by ARDC Nectar research cloud
 
-Binderhub service hosted by ARDC
 
 [![Binder](https://binder.test.rc.nectar.org.au/badge_logo.svg)](https://binder.test.rc.nectar.org.au/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
 
 
 
-## Code dependencies 
+## DOI badge
 
-The code dependencies are captured in the environment.yaml file. The instructions about create one for your project can be found at the link below.
 
-https://mybinder.readthedocs.io/en/latest/howto/languages.html
+A persistent identifier, created once the research is completed. Freezing the released Jupyter Notebook, which makes referring to the research software possible.
 
-To get the list of python packages and dependencies use the following commands in jupyter notebook. This inststruction commands are not part of the notebook .pynb file. 
 
-! python -version
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7822033.svg)](https://doi.org/10.5281/zenodo.7822033)
 
-! freeze
 
-! freeze | grep -i numpy # getting numpy version only.
 
-! freeze | grep -i matplotlib # getting matplotlib version only. 
+
+
