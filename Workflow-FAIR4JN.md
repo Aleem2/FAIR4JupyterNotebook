@@ -2,7 +2,7 @@
 
 This workflow outlines a step by step approach in creating a FAIR Jupyter Notebook. (15 minutes)
 
-1. Sign in to github, click on + sign beside your login to create a new github repo. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
+1. Sign in to github, click on + sign beside your login to create a new github repository. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
 
     [A guide to creating a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
          
@@ -34,7 +34,7 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
         ! python -version
         ~~~~
 
-5. Additionally, we recommend creating a bindhub and google colab badges. The badges can be clicked upon to launch Jupyter Notebook in a reproducible manner.
+5. Additionally, we recommend creating a bindhub and google Colab, or ‘Colaboratory’ badges. The badges can be clicked upon to launch Jupyter Notebook in a reproducible manner.
    
     [A guide to creating an executable binderhub badge](https://mybinder.readthedocs.io/en/latest/introduction.html)
 
