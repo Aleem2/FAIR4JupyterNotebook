@@ -1,6 +1,6 @@
 ## FAIR for Jupyter Notebook Workflow
 
-This workflow outlines a step by step approach in creating a FAIR Jupyter Notebook. (15 minutes)
+This workflow outlines a step by step approach in creating a FAIR Jupyter Notebook. 
 
 1. Sign in to github, click on + sign beside your login to create a new github repository. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
 
