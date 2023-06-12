@@ -5,12 +5,26 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 1. Sign in to github, click on + sign beside your login to create a new github repository. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
 
     [A guide to creating a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+    
+    ![alt text](https://github.com/Aleem2/FAIR4JupyterNotebook/blob/Images-in-workflow/images/license-tool.webp?raw=true)
          
 2. Metadata is a way to provide author details and the ability to cite the software. We recommend using CITATION.cff file, which provides a machine readable format to reference the said work.
 
 
     [A guide to creating CITATION.cff - metadata file](https://citation-file-format.github.io/)
-
+    
+    <pre><code>
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    authors:
+      - family-names: Uddin
+        given-names: Aleem
+        orcid: https://orcid.org/0000-0002-8519-5534
+    title: "My Research Software"
+    version: 2.0.4
+    doi: 10.5281/zenodo.7690164
+    date-released: 2021-08-11  
+    </code></pre>
 
 3. Upload the Jupyter Notebook file, so that it becomes findable and accessible via the github repository.
 
@@ -37,10 +51,14 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 5. Additionally, we recommend creating a bindhub and google Colab, or ‘Colaboratory’ badges. The badges can be clicked upon to launch Jupyter Notebook in a reproducible manner.
    
     [A guide to creating an executable binderhub badge](https://mybinder.readthedocs.io/en/latest/introduction.html)
+    
+    A Binderhub colab badge for this repository.   [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
 6. Create Google colab badge which can be executed. (caveat dependencies ignored)
    
     [A guide to creating google colab badge](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)
+    
+    A google Colab badge for this repository.   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
 
 7. Persistent Identifier (DOI) - Assign a persistent identifier (DOI) to the repository, once the research is completed. GitHub has a thorough guide on generating DOI’s with a Zenodo plugin.
 
