@@ -51,10 +51,14 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 5. Additionally, we recommend creating a bindhub and google Colab, or ‘Colaboratory’ badges. The badges can be clicked upon to launch Jupyter Notebook in a reproducible manner.
    
     [A guide to creating an executable binderhub badge](https://mybinder.readthedocs.io/en/latest/introduction.html)
+    
+    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
 6. Create Google colab badge which can be executed. (caveat dependencies ignored)
    
     [A guide to creating google colab badge](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb#scrollTo=-pVhOfzLx9us)
+    
+    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
 
 7. Persistent Identifier (DOI) - Assign a persistent identifier (DOI) to the repository, once the research is completed. GitHub has a thorough guide on generating DOI’s with a Zenodo plugin.
 
