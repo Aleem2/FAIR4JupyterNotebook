@@ -12,7 +12,19 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 
 
     [A guide to creating CITATION.cff - metadata file](https://citation-file-format.github.io/)
-
+    
+    <pre><code>
+    cff-version: 1.2.0
+    message: "If you use this software, please cite it as below."
+    authors:
+      - family-names: Uddin
+        given-names: Aleem
+        orcid: https://orcid.org/0000-0002-8519-5534
+    title: "My Research Software"
+    version: 2.0.4
+    doi: 10.5281/zenodo.7690164
+    date-released: 2021-08-11  
+    </code></pre>
 
 3. Upload the Jupyter Notebook file, so that it becomes findable and accessible via the github repository.
 
