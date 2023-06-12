@@ -5,6 +5,8 @@ This workflow outlines a step by step approach in creating a FAIR Jupyter Notebo
 1. Sign in to github, click on + sign beside your login to create a new github repository. Fill in the form to create a new repository with license information. Alternatively, you can add licensing information at a later stage by adding a license file named "LICENSE". Make sure to edit the license file with contributors names and year.  
 
     [A guide to creating a license](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository)
+    
+    ![alt text](https://github.com/Aleem2/FAIR4JupyterNotebook/blob/Images-in-workflow/images/license-tool.webp?raw=true)
          
 2. Metadata is a way to provide author details and the ability to cite the software. We recommend using CITATION.cff file, which provides a machine readable format to reference the said work.
 
