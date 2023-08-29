@@ -27,7 +27,7 @@ This repo serves as an example with instructions to create a FAIR Jupyter Notebo
 ## Executable badges
 
 
-Badges allow for instant launch of the notebook files in a reproducible manner.
+Badges allow for the instant launch of the notebook files in a reproducible manner.
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
