@@ -36,11 +36,10 @@ Badges allow for the instant launch of the notebook files in a reproducible mann
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aleem2/FAIR4JupyterNotebook/blob/main/boxplot_vs_violin.ipynb)
 
 
-Binderhub service hosted on **ARDC's Nectar research cloud**
+Binderhub service hosted on **[ARDC's Nectar research cloud](https://binderhub.rc.nectar.org.au/)**
 
 
-[![Binder](https://binder.test.rc.nectar.org.au/badge_logo.svg)](https://binder.test.rc.nectar.org.au/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
-
+[![Binder](https://binderhub.rc.nectar.org.au/badge_logo.svg)](https://binderhub.rc.nectar.org.au/v2/gh/Aleem2/FAIR4JupyterNotebook/HEAD?labpath=boxplot_vs_violin.ipynb)
 
 
 
